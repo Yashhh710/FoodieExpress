@@ -12,9 +12,9 @@ export const foodItems = [
   { id: 8, name: "Veggie Supreme", price: 399.00, startingFrom: 399.00, rating: 4.4, totalSale: 950, category: "Pizza", transparentImg: "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?auto=format&fit=crop&w=300&q=80" },
 
   // SANDWICH
-  { id: 9, name: "Club Sandwich", price: 160.00, startingFrom: 160.00, rating: 4.3, totalSale: 1200, category: "Sandwich", transparentImg: "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=300&q=80" },
-  { id: 10, name: "Grilled Cheese", price: 110.00, startingFrom: 110.00, rating: 4.6, totalSale: 2400, category: "Sandwich", transparentImg: "https://images.unsplash.com/photo-1475090169767-40ed8d18f67d?auto=format&fit=crop&w=300&q=80" },
-  { id: 11, name: "Tuna Salad Sandwich", price: 180.00, startingFrom: 180.00, rating: 4.2, totalSale: 850, category: "Sandwich", transparentImg: "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?q=60&w=400" },
+  { id: 9, name: "Club Sandwich", price: 160.00, startingFrom: 160.00, rating: 4.3, totalSale: 1200, category: "Sandwich", transparentImg: "https://whatocook.com/wp-content/uploads/2025/08/Club-Sandwich.png" },
+  { id: 10, name: "Grilled Cheese", price: 110.00, startingFrom: 110.00, rating: 4.6, totalSale: 2400, category: "Sandwich", transparentImg: "https://tse4.mm.bing.net/th/id/OIP.avxaAPbqsYP4vzDf5lATiAHaLJ?rs=1&pid=ImgDetMain&o=7&rm=3" },
+  { id: 11, name: "Tuna Salad Sandwich", price: 180.00, startingFrom: 180.00, rating: 4.2, totalSale: 850, category: "Sandwich", transparentImg: "https://tse3.mm.bing.net/th/id/OIP.xCkKSFKcxDbj-elz-JBz2wHaE8?w=1600&h=1067&rs=1&pid=ImgDetMain&o=7&rm=3" },
 
   // TACOS
   { id: 12, name: "Tacos Al Pastor", price: 180.00, startingFrom: 180.00, rating: 4.7, totalSale: 1450, category: "Tacos", transparentImg: "https://images.unsplash.com/photo-1552332386-f8dd00dc2f85?auto=format&fit=crop&w=300&q=80" },
@@ -22,9 +22,9 @@ export const foodItems = [
   { id: 14, name: "Chicken Fajita Tacos", price: 190.00, startingFrom: 190.00, rating: 4.5, totalSale: 1300, category: "Tacos", transparentImg: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=300&q=80" },
 
   // ICE CREAM
-  { id: 15, name: "Vanilla Bean Cone", price: 90.00, startingFrom: 90.00, rating: 4.5, totalSale: 1600, category: "Ice Cream", transparentImg: "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?q=60&w=400" },
-  { id: 16, name: "Chocolate Fudge", price: 120.00, startingFrom: 120.00, rating: 4.9, totalSale: 2100, category: "Ice Cream", transparentImg: "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=300&q=80" },
-  { id: 17, name: "Strawberry Scoop", price: 100.00, startingFrom: 100.00, rating: 4.4, totalSale: 950, category: "Ice Cream", transparentImg: "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?auto=format&fit=crop&w=300&q=80" },
+  { id: 15, name: "Vanilla Bean Cone", price: 90.00, startingFrom: 90.00, rating: 4.5, totalSale: 1600, category: "Ice Cream", transparentImg: "https://www.seriouseats.com/thmb/4IcAzuNRT0jvz-Ti45f2Nnep_rs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2014__06__20140616-chocolate-dip-soft-serve-vicky-wasik-4-a73d6989194646eba73127f5d51183fa.jpg" },
+  { id: 16, name: "Chocolate Fudge", price: 120.00, startingFrom: 120.00, rating: 4.9, totalSale: 2100, category: "Ice Cream", transparentImg: "https://www.lifeloveandsugar.com/wp-content/uploads/2023/08/Quick-Easy-Chocolate-Fudge5E.jpg" },
+  { id: 17, name: "Strawberry Scoop", price: 100.00, startingFrom: 100.00, rating: 4.4, totalSale: 950, category: "Ice Cream", transparentImg: "https://tse4.mm.bing.net/th/id/OIP.WkOkGbNWbNYgHOWXrV8boAHaHV?w=1038&h=1028&rs=1&pid=ImgDetMain&o=7&rm=3" },
   { id: 18, name: "Ice Cream Sundae", price: 199.00, startingFrom: 199.00, rating: 4.7, totalSale: 1240, category: "Ice Cream", transparentImg: "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=300&q=80" },
 
   // CAKE
@@ -41,7 +41,7 @@ export const foodItems = [
 
   // INDIAN
   { id: 27, name: "Biryani", price: 249.00, startingFrom: 249.00, rating: 4.8, totalSale: 1500, category: "Indian", transparentImg: "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=300&q=80" },
-  { id: 28, name: "Butter Chicken", price: 299.00, startingFrom: 299.00, rating: 4.9, totalSale: 2100, category: "Indian", transparentImg: "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=300&q=80" },
+  { id: 28, name: "Butter Chicken", price: 299.00, startingFrom: 299.00, rating: 4.9, totalSale: 2100, category: "Indian", transparentImg: "https://tse3.mm.bing.net/th/id/OIP.9tuhqrWnOnKRVIcfC5dfxgHaLH?rs=1&pid=ImgDetMain&o=7&rm=3" },
   { id: 29, name: "Paneer Tikka Masala", price: 279.00, startingFrom: 279.00, rating: 4.7, totalSale: 1850, category: "Indian", transparentImg: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=300&q=80" },
   { id: 30, name: "Dal Makhani", price: 229.00, startingFrom: 229.00, rating: 4.6, totalSale: 1600, category: "Indian", transparentImg: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=300&q=80" },
   
