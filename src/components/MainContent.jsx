@@ -81,7 +81,7 @@ const MainContent = ({ activeNav, searchQuery, setSearchQuery, activeCategory, s
   if (activeNav === "restaurants") {
     return (
       <div className="mc">
-        <h2 className="mc__section-title">Nearby Restaurants</h2>
+        <h2 className="mc__section-title">Our Partners</h2>
         <div className="mc__dishes" style={{ gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))" }}>
           {restaurants.map(r => (
             <div key={r.id} className="mc__dish-card" style={{ padding: "65px 10px 20px" }}>
